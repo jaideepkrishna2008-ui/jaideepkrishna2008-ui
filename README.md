@@ -34,7 +34,7 @@ Fun Fact: Scored 100% in Computer Science in both HSC years 🎯
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 - 🔭 I'm currently building **AI-driven utilities** under **JAKS 360**
-- 🎓 First-year **B.Tech AI and Data Science** student at **St. Joseph's College of Engineering**
+- 🎓 Second-year **B.Tech AI and Data Science** student at **St. Joseph's College of Engineering**
 - 🏆 **Published developer** on the **Microsoft Store**
 - 🌱 Learning **Machine Learning, Deep Learning & Cloud Computing**
 - 💡 I focus on **ultra-low latency, professional-grade tools**
