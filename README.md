@@ -149,15 +149,15 @@ Professional toolkit built for **efficiency and reliability**. Part of the JAKS 
 <div align="center">
 
 <a href="https://github.com/jaideepkrishna2008-ui">
-  <img src="https://raw.githubusercontent.com/jaideepkrishna2008-ui/jaideepkrishna2008-ui/main/profile-summary-card-output/tokyonight/3-stats.svg" width="410"/>
+  <img src="https://raw.githubusercontent.com/jaideepkrishna2008-ui/jaideepkrishna2008-ui/main/profile-summary-card-output/tokyonight/3-stats.svg" width="350"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/jaideepkrishna2008-ui/jaideepkrishna2008-ui/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="410"/>
+  <img src="https://raw.githubusercontent.com/jaideepkrishna2008-ui/jaideepkrishna2008-ui/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="350"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/jaideepkrishna2008-ui">
-  <img src="https://streak-stats.demolab.com/?user=jaideepkrishna2008-ui&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=c9d1d9&dates=6e7681" width="700"/>
+  <img src="https://streak-stats.demolab.com/?user=jaideepkrishna2008-ui&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=c9d1d9&dates=6e7681" width="710"/>
 </a>
 
 </div>
