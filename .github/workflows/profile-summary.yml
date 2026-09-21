@@ -1,0 +1,22 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: jaideepkrishna2008-ui
+          BRANCH_NAME: main
+          OUTPUT_DIR: ./profile-summary-card-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

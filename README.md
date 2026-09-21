@@ -149,9 +149,23 @@ Professional toolkit built for **efficiency and reliability**. Part of the JAKS 
 <div align="center">
 
 <a href="https://github.com/jaideepkrishna2008-ui">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaideepkrishna2008-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&ring_color=3b82f6"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaideepkrishna2008-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9"/>
+  <img src="https://raw.githubusercontent.com/jaideepkrishna2008-ui/jaideepkrishna2008-ui/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/jaideepkrishna2008-ui">
+  <img src="https://raw.githubusercontent.com/jaideepkrishna2008-ui/jaideepkrishna2008-ui/main/profile-summary-card-output/tokyonight/3-stats.svg" width="400"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/jaideepkrishna2008-ui/jaideepkrishna2008-ui/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="400"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/jaideepkrishna2008-ui">
+  <img src="https://raw.githubusercontent.com/jaideepkrishna2008-ui/jaideepkrishna2008-ui/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="400"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/jaideepkrishna2008-ui/jaideepkrishna2008-ui/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="400"/>
 </a>
 
 <br/><br/>
@@ -159,10 +173,6 @@ Professional toolkit built for **efficiency and reliability**. Part of the JAKS 
 <a href="https://github.com/jaideepkrishna2008-ui">
   <img src="https://streak-stats.demolab.com/?user=jaideepkrishna2008-ui&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=c9d1d9&dates=6e7681" width="700"/>
 </a>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaideepkrishna2008-ui&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=1e3a8a&hide_border=true" width="95%"/>
 
 </div>
 
