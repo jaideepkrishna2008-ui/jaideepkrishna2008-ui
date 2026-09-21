@@ -149,23 +149,9 @@ Professional toolkit built for **efficiency and reliability**. Part of the JAKS 
 <div align="center">
 
 <a href="https://github.com/jaideepkrishna2008-ui">
-  <img src="https://raw.githubusercontent.com/jaideepkrishna2008-ui/jaideepkrishna2008-ui/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/jaideepkrishna2008-ui">
-  <img src="https://raw.githubusercontent.com/jaideepkrishna2008-ui/jaideepkrishna2008-ui/main/profile-summary-card-output/tokyonight/3-stats.svg" width="400"/>
+  <img src="https://raw.githubusercontent.com/jaideepkrishna2008-ui/jaideepkrishna2008-ui/main/profile-summary-card-output/tokyonight/3-stats.svg" width="410"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/jaideepkrishna2008-ui/jaideepkrishna2008-ui/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="400"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/jaideepkrishna2008-ui">
-  <img src="https://raw.githubusercontent.com/jaideepkrishna2008-ui/jaideepkrishna2008-ui/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="400"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/jaideepkrishna2008-ui/jaideepkrishna2008-ui/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="400"/>
+  <img src="https://raw.githubusercontent.com/jaideepkrishna2008-ui/jaideepkrishna2008-ui/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="410"/>
 </a>
 
 <br/><br/>
