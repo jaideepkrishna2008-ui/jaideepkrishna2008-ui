@@ -148,13 +148,17 @@ Professional toolkit built for **efficiency and reliability**. Part of the JAKS 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaideepkrishna2008-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&ring_color=3b82f6"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaideepkrishna2008-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9"/>
+<a href="https://github.com/jaideepkrishna2008-ui">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaideepkrishna2008-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&ring_color=3b82f6"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaideepkrishna2008-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaideepkrishna2008-ui&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=c9d1d9&dates=6e7681" width="700"/>
+<a href="https://github.com/jaideepkrishna2008-ui">
+  <img src="https://streak-stats.demolab.com/?user=jaideepkrishna2008-ui&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=c9d1d9&dates=6e7681" width="700"/>
+</a>
 
 <br/><br/>
 
