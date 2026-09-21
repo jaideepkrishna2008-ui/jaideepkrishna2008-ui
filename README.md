@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=B.Tech+CSE+with+AI+Specialization+%40+SJCE;Building+ultra-low+latency+tools+under+JAKS+360;Published+Developer+on+Microsoft+Store+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=B.Tech+AI+and+Data+Science+%40+SJCE;Building+ultra-low+latency+tools+under+JAKS+360;Published+Developer+on+Microsoft+Store+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -26,7 +26,7 @@
 ```yaml
 Name: Jaideep Krishna A
 Location: Chennai, Tamil Nadu, India 🇮🇳
-Education: B.Tech CSE with AI Specialization @ SJCE (2025-29)
+Education: B.Tech AI and Data Science @ SJCE (2025-29)
 Brand: JAKS 360
 Role: Student Developer | AI Enthusiast | Microsoft App Publisher
 Goal: Becoming a Data Scientist, AI Engineer & Software Developer
@@ -36,7 +36,7 @@ Fun Fact: Scored 100% in Computer Science in both HSC years 🎯
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 - 🔭 I'm currently building **AI-driven utilities** under **JAKS 360**
-- 🎓 First-year **B.Tech CSE with AI** student at **St. Joseph's College of Engineering**
+- 🎓 First-year **B.Tech AI and Data Science** student at **St. Joseph's College of Engineering**
 - 🏆 **Published developer** on the **Microsoft Store**
 - 🌱 Learning **Machine Learning, Deep Learning & Cloud Computing**
 - 💡 I focus on **ultra-low latency, professional-grade tools**
@@ -140,9 +140,7 @@ Professional toolkit built for **efficiency and reliability**. Part of the JAKS 
 ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 
-### 🔧 Big Data & Tools
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
