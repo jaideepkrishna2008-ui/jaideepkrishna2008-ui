@@ -11,11 +11,9 @@
 <br/>
 
 <!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-jaks360.tech-0d1117?style=for-the-badge&logo=google-chrome&logoColor=3b82f6)](https://www.jaks360.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jaks360.tech-0d1117?style=for-the-badge&logo=googlechrome&logoColor=3b82f6)](https://www.jaks360.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaideep-krishna-a-297678380)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaideepkrishna2008@gmail.com)
-[![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Published_Apps-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/search?query=jaks+360)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jaideep.360)
 
 </div>
 
@@ -56,8 +54,8 @@ Fun Fact: Scored 100% in Computer Science in both HSC years 🎯
 <td width="50%">
 
 ### 🖥️ Smart System Monitor
-<a href="https://apps.microsoft.com/detail/9P9J9TFQ00HT">
-<img src="https://img.shields.io/badge/Microsoft_Store-Download-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<a href="https://apps.microsoft.com/detail/9P9J9TFQ00HT?hl=en-us&gl=IN">
+<img src="https://img.shields.io/badge/Microsoft_Store-Download-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
 </a>
 
 Ultra-low latency system HUD for **real-time hardware telemetry** monitoring. Track CPU, RAM, GPU, and disk performance live from your desktop.
@@ -68,8 +66,8 @@ Ultra-low latency system HUD for **real-time hardware telemetry** monitoring. Tr
 <td width="50%">
 
 ### 🌐 Smart Internet Monitor
-<a href="https://apps.microsoft.com/detail/9PHM6367NK4S">
-<img src="https://img.shields.io/badge/Microsoft_Store-Download-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<a href="https://apps.microsoft.com/detail/9PHM6367NK4S?hl=en-us&gl=IN">
+<img src="https://img.shields.io/badge/Microsoft_Store-Download-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
 </a>
 
 Keep a precise pulse on your network. **Track live bandwidth**, monitor connection stability, and optimize internet performance.
@@ -127,9 +125,7 @@ Professional toolkit built for **efficiency and reliability**. Part of the JAKS 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### ☁️ AWS Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -137,7 +133,6 @@ Professional toolkit built for **efficiency and reliability**. Part of the JAKS 
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 
 ### 🔧 Tools
@@ -208,11 +203,10 @@ Professional toolkit built for **efficiency and reliability**. Part of the JAKS 
 <a href="https://www.linkedin.com/in/jaideep-krishna-a-297678380"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/jaideepkrishna2008-ui"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:jaideepkrishna2008@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://buymeacoffee.com/jaideep.360"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=jaideepkrishna2008-ui&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=jaideepkrishna2008-ui&label=Profile%20Views&color=3b82f6&style=for-the-badge&base=459" alt="Profile Views"/>
 
 <br/><br/>
 
