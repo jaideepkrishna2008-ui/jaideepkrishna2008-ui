@@ -148,6 +148,20 @@ Professional toolkit built for **efficiency and reliability**. Part of the JAKS 
 
 <div align="center">
 
+<a href="https://github.com/jaideepkrishna2008-ui?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjaideepkrishna2008-ui&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github&color=3b82f6"/>
+</a>
+&nbsp;
+<a href="https://github.com/jaideepkrishna2008-ui?tab=stars">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjaideepkrishna2008-ui%2Fstarred&query=%24.length&label=Starred%20Repos&style=for-the-badge&logo=github&color=eab308"/>
+</a>
+&nbsp;
+<a href="https://github.com/jaideepkrishna2008-ui?tab=followers">
+  <img src="https://img.shields.io/github/followers/jaideepkrishna2008-ui?style=for-the-badge&logo=github&color=8b5cf6"/>
+</a>
+
+<br/><br/>
+
 <a href="https://github.com/jaideepkrishna2008-ui">
   <img src="https://raw.githubusercontent.com/jaideepkrishna2008-ui/jaideepkrishna2008-ui/main/profile-summary-card-output/tokyonight/3-stats.svg" width="350"/>
   &nbsp;
