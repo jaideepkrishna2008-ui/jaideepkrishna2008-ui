@@ -229,3 +229,4 @@ Professional toolkit built for **efficiency and reliability**. Part of the JAKS 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:3b82f6&height=120&section=footer" width="100%"/>
+<!-- JAKS 360 Verified Profile -->
