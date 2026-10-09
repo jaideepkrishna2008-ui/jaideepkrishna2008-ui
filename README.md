@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:3b82f6&height=220&section=header&text=Jaideep%20Krishna%20A&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Microsoft%20App%20Publisher&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:3b82f6&height=220&section=header&text=Jaideep%20Krishna%20A&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Microsoft%20App%20Publisher%20%7C%20Recognised%20Open%20Source%20Contributor&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+
 
 <br/>
 
