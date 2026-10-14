@@ -259,7 +259,7 @@ Professional toolkit built for **efficiency and reliability**. Part of the JAKS 
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=jaideepkrishna2008-ui&label=Profile%20Views&color=3b82f6&style=for-the-badge&base=459" alt="Profile Views"/>
+<img src="https://hits.sh/github.com/jaideepkrishna2008-ui.svg?style=for-the-badge&label=Profile%20Views&extraCount=459&color=3b82f6&labelColor=0d1117" alt="Profile Views"/>
 
 <br/><br/>
 
